@@ -39,11 +39,3 @@ export default function Results() {
     </div>
   );
 }
-```
-
-### **Step 5: Create Environment Variables**
-
-Create **`.env.local`** file in root of project:
-```
-MONGODB_URI=your-mongodb-connection-string-here
-NEXT_PUBLIC_BASE_URL=http://localhost:3000
