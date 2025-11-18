@@ -41,3 +41,10 @@ next-env.d.ts
 *.user
 *.sln
 *.vsidx
+
+# env files
+.env
+.env.local
+.env*.local
+.env.development
+.env.production
